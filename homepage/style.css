@@ -1,0 +1,29 @@
+body {
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+	margin: 0 auto;
+	max-width: 950px;
+	padding: 50px 20px;
+	line-height: 1.35em;
+	background: #D7EFF7;
+	color: #084154;
+	font-weight: 300;
+}
+
+.profilePic{
+	max-width: 100%;
+}
+
+.profilePic img {
+	margin: 0 auto;
+	display: block;
+	opacity: 0.8;
+}
+
+.LI-profile-badge{
+	text-align: center;
+}
+
+.description{
+	text-align: center
+}
